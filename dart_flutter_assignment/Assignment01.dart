@@ -70,10 +70,4 @@ void main(){
   print('Percentage: ${percentage.toStringAsFixed(0)}%');
   print('Grade: $grade');
   print('Status: $status');
-
-
-
-
-
-
 }
