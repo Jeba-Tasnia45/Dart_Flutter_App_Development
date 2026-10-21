@@ -1,6 +1,3 @@
-//git add .
-// git commit -m "Added module folders and project files"
-// git push origin main
 
 void main(){
   int marks = 75;
